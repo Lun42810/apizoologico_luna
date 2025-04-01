@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "name": "apizoologico_luna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon src/index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lun42810/apizoologico_luna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lun42810/apizoologico_luna/issues"
+  },
+  "homepage": "https://github.com/Lun42810/apizoologico_luna#readme"
+}
